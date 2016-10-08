@@ -1,0 +1,11 @@
+/*Aqui é onde nós colocamos todo o aspecto visual de nosso HTML*/
+/*Colocamos um identificador que sera acessado por outro arquivo 
+e verificara o estilo do HTML que queremos para aquela area*/
+canvas{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto; 
+}
